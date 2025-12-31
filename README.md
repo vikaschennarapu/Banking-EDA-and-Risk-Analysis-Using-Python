@@ -6,7 +6,7 @@
 ​
 - Generated an executive portfolio risk summary including risk distribution, loan‑to‑deposit ratio and key portfolio health indicators
  
-## oroject Objectives
+## Project Objectives
 - Understand customer banking behavior across deposits, savings, checking, loans and business lending.
 ​
 - Segment customers by income band, loyalty tier and risk weighting to identify medium/high‑risk segments.
