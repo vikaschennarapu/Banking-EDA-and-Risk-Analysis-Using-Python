@@ -17,21 +17,17 @@
 - <a href="https://github.com/vikaschennarapu/Banking-EDA-and-Risk-Analysis-Using-Python/blob/main/Banking.csv">Dataset</a>
 
 ## Methodology (Python EDA)
-- Data loading and inspection with pandas, including shape, dtypes and info to validate data quality.
- ​
+- Data loading and inspection with pandas, including shape, dtypes and info to validate data quality.​
 ####  Feature engineering:
 - Converted Joined Bank to proper datetime.​
-- Binned Estimated Income into Income Band (Low, Mid, High).
- ​
+- Binned Estimated Income into Income Band (Low, Mid, High).​
 ####  Categorical profiling:
-- value counts for Risk Weighting, Nationality, Occupation, Fee Structure, Loyalty Classification, Properties Owned, and Income Band.
- ​
-- Descriptive statistics and distribution analysis for all numerical features (age, income, balances, loans, deposits, business lending, etc.).
- ​
+- value counts for Risk Weighting, Nationality, Occupation, Fee Structure, Loyalty Classification, Properties Owned, and Income Band.​
+- Descriptive statistics and distribution analysis for all numerical features (age, income, balances, loans, deposits, business lending, etc.).​
 ####  Correlation analysis:
 - Full correlation matrix and heatmap for numerical variables.​
 - Pairwise regression plots for key relationships (e.g., Bank Deposits vs Saving Accounts, Bank Loans vs Credit Card Balance, business lending vs loans).
-  
+
 ## Key insights
 #### Deposits & savings
 - Strong positive correlation between bank deposits and saving accounts, indicating customers who deposit more also maintain higher savings balances.
