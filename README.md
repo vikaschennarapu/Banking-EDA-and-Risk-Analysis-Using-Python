@@ -60,3 +60,5 @@
 ## Fianl Conclusion
 - This project delivers a clear, end‑to‑end risk analytics view of a 3,000‑customer banking portfolio by combining Python‑based EDA with an executive‑level Power BI dashboard. The analysis validates clean data, engineers meaningful segments (such as income bands and risk levels), and quantifies relationships between deposits, loans, income and collateral, resulting in a portfolio classified as medium risk with a healthy loan‑to‑deposit profile.
 - The final outcome is a practical decision‑support tool that highlights key risk drivers, surfaces high‑attention customer segments and provides data‑backed recommendations for portfolio optimization and customer retention strategies
+## Dashbaord
+<img width="1907" height="1103" alt="Screenshot 2025-12-31 115257" src="https://github.com/user-attachments/assets/aafea756-9b2b-4df7-bd02-d2c7e2daadbe" />
