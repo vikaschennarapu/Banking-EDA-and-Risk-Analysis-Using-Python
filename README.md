@@ -58,6 +58,9 @@
 - Risk & Income: risk weighting vs estimated income and loyalty classification; distribution of risk scores.
  
 <a href="https://github.com/vikaschennarapu/Banking-EDA-and-Risk-Analysis-Using-Python/blob/main/BANKING%20RISK%20ANALYSIS%20EDA.pbix">Power BI Dashboard</a> 
+
+## Project Python Code
+<a href="https://github.com/vikaschennarapu/Banking-EDA-and-Risk-Analysis-Using-Python/blob/main/BANKING%20EDA%20AND%20RISK%20ANALYSIS%20USING%20PYTHON%20(1).ipynb"> Jupyter Notes</a>
 ## Fianl Conclusion
 - This project delivers a clear, end‑to‑end risk analytics view of a 3,000‑customer banking portfolio by combining Python‑based EDA with an executive‑level Power BI dashboard. The analysis validates clean data, engineers meaningful segments (such as income bands and risk levels), and quantifies relationships between deposits, loans, income and collateral, resulting in a portfolio classified as medium risk with a healthy loan‑to‑deposit profile.
 - The final outcome is a practical decision‑support tool that highlights key risk drivers, surfaces high‑attention customer segments and provides data‑backed recommendations for portfolio optimization and customer retention strategies
